@@ -20,7 +20,7 @@ The Purpose of learning this course is to understand the various network layer, 
 7. Full Duplex Chat Using TCP/IP.
 8. Implementation of File Transfer Protocol.
 9. Remote Command Execution Using UDP.
-###10. Arp Implementation Using UDP.
+10. Arp Implementation Using UDP.
 
 ### Tips for using the repository
 
